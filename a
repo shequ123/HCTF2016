@@ -1,2 +1,10 @@
-<script>alert(1)</script>
-123123
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<script type="text/javascript">alert(1)</script>
+<a href="asdf"></a>
+</body>
+</html>
